@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/ISMED/.idea/ISMED.iml" filepath="$USER_HOME$/Documents/ISMED/.idea/ISMED.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Notatniki_Jupyter_i_skrypty/.idea/Notatniki_Jupyter_i_skrypty.iml" filepath="$USER_HOME$/Downloads/Notatniki_Jupyter_i_skrypty/.idea/Notatniki_Jupyter_i_skrypty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projekt5.iml" filepath="$PROJECT_DIR$/.idea/projekt5.iml" />
+    </modules>
+  </component>
+</project>

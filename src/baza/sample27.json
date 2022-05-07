@@ -1,0 +1,162 @@
+{
+                         "08:00": [
+                                                  false,
+                                                  {
+                                                                           "name": "Alan",
+                                                                           "surname": "Burkman",
+                                                                           "pesel": "26123667989"
+                                                  }
+                         ],
+                         "08:30": [
+                                                  false,
+                                                  {
+                                                                           "name": "Raymond",
+                                                                           "surname": "Mangual",
+                                                                           "pesel": "64173234502"
+                                                  }
+                         ],
+                         "09:00": [
+                                                  false,
+                                                  {
+                                                                           "name": "Pamela",
+                                                                           "surname": "Moore",
+                                                                           "pesel": "89263105078"
+                                                  }
+                         ],
+                         "09:30": [
+                                                  false,
+                                                  {
+                                                                           "name": "Shay",
+                                                                           "surname": "Glueck",
+                                                                           "pesel": "29275380845"
+                                                  }
+                         ],
+                         "10:00": [
+                                                  false,
+                                                  {
+                                                                           "name": "Hazel",
+                                                                           "surname": "Flores",
+                                                                           "pesel": "73166832589"
+                                                  }
+                         ],
+                         "10:30": [
+                                                  true,
+                                                  null
+                         ],
+                         "11:00": [
+                                                  false,
+                                                  {
+                                                                           "name": "Rubin",
+                                                                           "surname": "Rego",
+                                                                           "pesel": "29106784898"
+                                                  }
+                         ],
+                         "11:30": [
+                                                  false,
+                                                  {
+                                                                           "name": "Amanda",
+                                                                           "surname": "Tatum",
+                                                                           "pesel": "76738619649"
+                                                  }
+                         ],
+                         "12:00": [
+                                                  true,
+                                                  null
+                         ],
+                         "12:30": [
+                                                  true,
+                                                  null
+                         ],
+                         "13:00": [
+                                                  false,
+                                                  {
+                                                                           "name": "Jolene",
+                                                                           "surname": "Phillips",
+                                                                           "pesel": "67880634156"
+                                                  }
+                         ],
+                         "13:30": [
+                                                  true,
+                                                  null
+                         ],
+                         "14:00": [
+                                                  false,
+                                                  {
+                                                                           "name": "Alice",
+                                                                           "surname": "Lowe",
+                                                                           "pesel": "02214558847"
+                                                  }
+                         ],
+                         "14:30": [
+                                                  true,
+                                                  null
+                         ],
+                         "15:00": [
+                                                  false,
+                                                  {
+                                                                           "name": "Lori",
+                                                                           "surname": "Roman",
+                                                                           "pesel": "45984887739"
+                                                  }
+                         ],
+                         "15:30": [
+                                                  false,
+                                                  {
+                                                                           "name": "Beverly",
+                                                                           "surname": "Stewart",
+                                                                           "pesel": "58840022726"
+                                                  }
+                         ],
+                         "16:00": [
+                                                  true,
+                                                  null
+                         ],
+                         "16:30": [
+                                                  true,
+                                                  null
+                         ],
+                         "17:00": [
+                                                  true,
+                                                  null
+                         ],
+                         "17:30": [
+                                                  false,
+                                                  {
+                                                                           "name": "Maurice",
+                                                                           "surname": "Donaldson",
+                                                                           "pesel": "07699107683"
+                                                  }
+                         ],
+                         "18:00": [
+                                                  false,
+                                                  {
+                                                                           "name": "Andrew",
+                                                                           "surname": "Quick",
+                                                                           "pesel": "27493589764"
+                                                  }
+                         ],
+                         "18:30": [
+                                                  false,
+                                                  {
+                                                                           "name": "Joseph",
+                                                                           "surname": "Holliday",
+                                                                           "pesel": "14270925519"
+                                                  }
+                         ],
+                         "19:00": [
+                                                  true,
+                                                  null
+                         ],
+                         "19:30": [
+                                                  false,
+                                                  {
+                                                                           "name": "Donna",
+                                                                           "surname": "Sanchez",
+                                                                           "pesel": "59634606189"
+                                                  }
+                         ],
+                         "20:00": [
+                                                  true,
+                                                  null
+                         ]
+}
